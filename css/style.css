@@ -1,0 +1,101 @@
+* {
+  margin: 0;
+}
+/*HEADER*/
+header {
+  background-image: url("../img/pattern.png");
+  background-color: blue;
+  background-size: 200px;
+}
+
+.logo {
+  height: 35px;
+  margin-top: 20px;
+}
+.container {
+  width: 1024px;
+  margin: auto;
+}
+/*END HEADER*/
+
+/* MAIN*/
+
+/*Titolo*/
+h1 {
+  margin-top: 20px;
+}
+/*Fine Titolo*/
+/*Author*/
+.author {
+  color: grey;
+  font-size: 15px;
+}
+
+.author span {
+  color: cyan;
+}
+/*End author*/
+
+/*Images*/
+.images {
+  margin-top: 20px;
+}
+.description {
+  font-size: 12px;
+}
+
+/*End images*/
+
+/*Article body*/
+.yellow {
+  background-color: yellow;
+}
+.body {
+  margin-top: 20px;
+}
+/*List*/
+.list {
+  margin-top: 20px;
+}
+/*End List*/
+/*table*/
+.text {
+  width: 50%;
+}
+table {
+  margin-top: 20px;
+  border-spacing: 0;
+}
+table thead {
+  background-color: blue;
+  color: white;
+}
+.odd {
+  background-color: cornflowerblue;
+}
+/*end table*/
+
+/*End article body*/
+
+/*useful info*/
+h2 {
+  color: grey;
+  margin-top: 20px;
+  font-size: 20px;
+}
+.back-img {
+  color: white;
+  width: 300px;
+  height: 250px;
+  font-size: 20px;
+  background-size: cover;
+}
+#graph {
+  background-image: url(../img/graph.jpg);
+}
+#monitor {
+  background-image: url(../img/monitor.jpg);
+}
+/*end useful info*/
+
+/*END MAIN*/
